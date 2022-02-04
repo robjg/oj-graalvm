@@ -1,0 +1,5 @@
+<arooa:descriptor  xmlns:arooa="http://rgordon.co.uk/oddjob/arooa">
+    <conversions>
+        <arooa:conversion className='org.oddjob.graalvm.GraalScriptValue$Conversion'/>
+    </conversions>
+</arooa:descriptor>
